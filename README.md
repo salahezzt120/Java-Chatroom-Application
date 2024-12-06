@@ -11,7 +11,7 @@ This is a real-time chat room application built using Java. It includes client-s
 ---
 
 ## 🖼️ Banner
-![Chat Room Banner](Picrures/5975d770-6773-4f77-ab30-6c005c7c88f4.jpg)
+![Chat Room Banner](Picrures/banner.png)
 
 ---
 
