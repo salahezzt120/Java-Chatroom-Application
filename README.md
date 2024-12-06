@@ -16,15 +16,9 @@ This is a real-time chat room application built using Java. It includes client-s
 ---
 
 ## 📑 Table of Contents
-1. [Features](#features)
-2. [Requirements](#requirements)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Screenshots](#screenshots)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
-
+1. [Code](#Java-Chatroom-Application)
+4. [software documentation](#ChatBox.pdf)
+5. [Screenshots](#Picrures)
 ---
 
 ## 🌟 Features
@@ -45,4 +39,4 @@ This is a real-time chat room application built using Java. It includes client-s
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ChatRoomApp.git
+   https://github.com/salahezzt120/Java-Chatroom-Application.git
