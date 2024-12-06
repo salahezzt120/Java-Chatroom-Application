@@ -16,9 +16,9 @@ This is a real-time chat room application built using Java. It includes client-s
 ---
 
 ## 📑 Table of Contents
-1. [Code](#Java-Chatroom-Application)
-4. [software documentation](#ChatBox.pdf)
-5. [Screenshots](#Picrures)
+1. [Code](Java-Chatroom-Application)
+4. [software documentation](ChatBox.pdf)
+5. [Screenshots](Picrures)
 ---
 
 ## 🌟 Features
